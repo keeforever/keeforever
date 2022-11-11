@@ -20,3 +20,5 @@ I am a self-taught full stack developer, who is passionate to build beautiful, r
 ## More about me
 - 👯 I’m looking to collaborate on interesting and creative projects
 ## Connect with me
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48px"/>](https://github.com/keeforever)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48px"/>](https://github.com/keeforever)
