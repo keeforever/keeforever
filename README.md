@@ -14,6 +14,7 @@ I am a self-taught full stack developer, who is passionate to build beautiful, r
 ![](https://img.shields.io/badge/state%20management-Redux-%2348a48d?style=flat&logoColor=white&logo=redux)
 ![](https://img.shields.io/badge/style-Styled%20Component-%2348a48d?style=flat&logoColor=white&logo=styled-components)
 ![](https://img.shields.io/badge/design-Figma-%2348a48d?style=flat&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Tool-POST%20man-%2348a48d?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/version%20control-Git-%2348a48d?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/version%20control-Github-%2348a48d?style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/IDE-VScode-%2348a48d?style=flat&logo=vscode&logoColor=white)
@@ -21,4 +22,4 @@ I am a self-taught full stack developer, who is passionate to build beautiful, r
 - 👯 I’m looking to collaborate on interesting and creative projects
 ## Connect with me
 [<img src="./github.png" width="48px"/>](https://github.com/keeforever)
-[<img src="./linkedin.png" width="48px"/>](https://github.com/keeforever)
+[<img src="./linkedin.png" width="48px"/>](https://www.linkedin.com/in/kaliyamoorthyt)
