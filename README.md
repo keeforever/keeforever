@@ -24,3 +24,4 @@ I am a self-taught full stack developer, who is passionate to build beautiful, r
 ## Connect with me
 [<img src="./github.png" width="48px"/>](https://github.com/keeforever)
 [<img src="./linkedin.png" width="48px"/>](https://www.linkedin.com/in/kaliyamoorthyt)
+[<img src="./telegram.png" width="48px"/>](https://t.me/keeforever)
