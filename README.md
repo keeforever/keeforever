@@ -17,7 +17,8 @@ I am a self-taught full stack developer, who is passionate to build beautiful, r
 ![](https://img.shields.io/badge/Tool-POST%20man-%2348a48d?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/version%20control-Git-%2348a48d?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/version%20control-Github-%2348a48d?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/IDE-VScode-%2348a48d?style=flat&logo=vscode&logoColor=white)
+![](https://img.shields.io/badge/IDE-VScode-%2348a48d?style=flat&logo=visual-studio-code&logoColor=white)
+
 ## More about me
 - 👯 I’m looking to collaborate on interesting and creative projects
 ## Connect with me
