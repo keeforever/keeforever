@@ -20,7 +20,7 @@ I am a self-taught full stack developer, who is passionate to build beautiful, r
 ![](https://img.shields.io/badge/IDE-VScode-%2348a48d?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## More about me
-- 👯 I’m looking to collaborate on interesting and creative projects
+- I’m looking to collaborate on interesting and creative projects
 ## Connect with me
 [<img src="./github.png" width="48px"/>](https://github.com/keeforever)
 [<img src="./linkedin.png" width="48px"/>](https://www.linkedin.com/in/kaliyamoorthyt)
